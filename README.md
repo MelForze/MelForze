@@ -1,12 +1,84 @@
-# 💫 About Me:
-🔭 I’m currently working as a Red Teamer and pentester, helping organizations improve their cybersecurity.<br><br>📖 I'm currently pursuing my OSCP certification and have a keen interest in pentesting internal infrastructures, cloud systems, and CI/CD pipelines.<br><br>🌱 I'm studying for a Master's degree in Information Security, diving deep into advanced data protection methods.<br><br>⚡ Fun fact: I dream of skydiving!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b31217,100:160b0d&height=200&section=header&text=MelForze&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Red%20Teamer%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Offensive%20Security%20Engineer&descSize=18&descAlignY=60" alt="MelForze banner" />
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF4D4D&center=true&vCenter=true&width=600&lines=Internal+infrastructure+%26+Active+Directory;Web+%E2%9C%A6+Wi-Fi+%E2%9C%A6+Phishing;Hack+%E2%9C%A6+Sleep+%E2%9C%A6+Repeat)](https://github.com/MelForze)
+
+[![GitHub](https://img.shields.io/badge/GitHub-MelForze-181717?style=for-the-badge&logo=github)](https://github.com/MelForze)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-melforze-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melforze/)
+[![Telegram](https://img.shields.io/badge/Telegram-MelForze-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/MelForze)
+<br/>
+[![OSCP](https://img.shields.io/badge/OSCP-Verified-b31217?style=for-the-badge&logo=offsec&logoColor=white)](https://credentials.offsec.com/6844e7e4-dbe6-497e-9cc3-3be488811d09#acc.vFPWJNT0)
+[![OSCP+](https://img.shields.io/badge/OSCP%2B-Verified-b31217?style=for-the-badge&logo=offsec&logoColor=white)](https://credentials.offsec.com/c945eee4-5852-43a4-830d-a7d1f81d5340#acc.cFglU5nG)
+
+</div>
+
+## 🎯 About
+
+> **Senior Penetration Tester** with **4+ years in offensive security** and **80+ projects delivered**, specializing in **internal infrastructure and Active Directory** — mapping attack paths, escalating privileges, and driving assessments to full domain compromise. My work spans **finance, enterprise, and tech/SaaS** environments, extending to **external engagements** — Web, Wi-Fi, Phishing / Social Engineering — when the scope calls for it. I also run **APT attack simulations**, train **SOC teams** to detect real-world TTPs, and work the **Purple Team** side. Every engagement ends with clear, prioritized, fix-focused reporting.
+
+- 🏢 **Internal Infrastructure** — My main focus: Active Directory, FreeIPA, Linux, CI/CD, Kubernetes & IoT devices
+- 🌐 **Web & External** — External-perimeter breach testing & internal corporate web services
+- 📡 **Wi-Fi** — Wireless network security testing
+- 🎣 **Phishing & Social Engineering** — Simulated phishing across multiple vectors (email, Telegram & more)
+
+## 🏆 Certifications
+
+[![OSCP](https://img.shields.io/badge/OSCP-Certified-b31217?style=for-the-badge)](https://credentials.offsec.com/6844e7e4-dbe6-497e-9cc3-3be488811d09#acc.vFPWJNT0)
+[![OSCP+](https://img.shields.io/badge/OSCP%2B-Certified-b31217?style=for-the-badge)](https://credentials.offsec.com/c945eee4-5852-43a4-830d-a7d1f81d5340#acc.cFglU5nG)
+![CAPE](https://img.shields.io/badge/CAPE-In_Progress-555?style=for-the-badge)
+![OSEP](https://img.shields.io/badge/OSEP-In_Progress-555?style=for-the-badge)
+![CRTE](https://img.shields.io/badge/CRTE-In_Progress-555?style=for-the-badge)
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🧭 **[Redposture](https://github.com/MelForze/Redposture)** | Red-Team CLI for auditing exposed services |
+| 🧩 **[OpenAPI-Sampler](https://github.com/MelForze/OpenAPI-Sampler)** | Burp extension — OpenAPI/Swagger |
+| 📚 **[Selflists](https://github.com/MelForze/Selflists)** | Wordlist & Windows-binary prep utility |
+| ⚙️ **[SimpleScripts](https://github.com/MelForze/SimpleScripts)** | Day-to-day automation & security scripts |
+
+## 🛠️ Tech Stack
+
+**⚔️ Red Team & Pentest**
+
+![BloodHound](https://img.shields.io/badge/BloodHound-EE4B2B?style=for-the-badge)
+![NetExec](https://img.shields.io/badge/NetExec-1F8B4C?style=for-the-badge)
+![Impacket](https://img.shields.io/badge/Impacket-4B8BBE?style=for-the-badge)
+![Certipy](https://img.shields.io/badge/Certipy-16A085?style=for-the-badge)
+![Redposture](https://img.shields.io/badge/Redposture-B31217?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-2C3E50?style=for-the-badge)
+![sqlmap](https://img.shields.io/badge/sqlmap-C0392B?style=for-the-badge)
+![Nuclei](https://img.shields.io/badge/Nuclei-2D9CDB?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1B9E77?style=for-the-badge)
+![GoPhish](https://img.shields.io/badge/GoPhish-00ADD8?style=for-the-badge)
+![Evilginx](https://img.shields.io/badge/Evilginx-1C1C1C?style=for-the-badge)
+![Sliver](https://img.shields.io/badge/Sliver-34495E?style=for-the-badge)
+
+**💻 Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![MelForze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelForze&show_icons=true&theme=midnight-purple&hide_border=true&title_color=ff4d4d&icon_color=ff4d4d&custom_title=MelForze%27s%20GitHub%20Stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelForze&layout=compact&theme=midnight-purple&hide_border=true&title_color=ff4d4d)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MelForze&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:160b0d,100:b31217&height=100&section=footer)
+
+</div>
