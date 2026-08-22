@@ -36,8 +36,8 @@
 |---|---|
 | 🧭 **[Redposture](https://github.com/MelForze/Redposture)** | Red-Team CLI for auditing exposed services |
 | 🧩 **[OpenAPI-Sampler](https://github.com/MelForze/OpenAPI-Sampler)** | Burp extension — OpenAPI/Swagger |
-| 📚 **[Selflists](https://github.com/MelForze/Selflists)** | Wordlist & Windows-binary prep utility |
-| ⚙️ **[SimpleScripts](https://github.com/MelForze/SimpleScripts)** | Day-to-day automation & security scripts |
+| 🌐 **[gdns2tcp](https://github.com/MelForze/gdns2tcp)** | File transfer and reverse SOCKS5 tunnel over DNS |
+| 🛡️ **[ForgeVeil](https://github.com/MelForze/ForgeVeil)** | Build & obfuscation framework for C/C++ and C#/.NET |
 
 ## 🛠️ Tech Stack
 
@@ -70,8 +70,8 @@
 
 <div align="center">
 
-![MelForze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelForze&show_icons=true&theme=midnight-purple&hide_border=true&title_color=ff4d4d&icon_color=ff4d4d&custom_title=MelForze%27s%20GitHub%20Stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelForze&layout=compact&theme=midnight-purple&hide_border=true&title_color=ff4d4d)
+![MelForze's GitHub Stats](https://github-stats-extended.vercel.app/api?username=MelForze&show_icons=true&theme=midnight-purple&hide_border=true&title_color=ff4d4d&icon_color=ff4d4d&custom_title=MelForze%27s%20GitHub%20Stats)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MelForze&layout=compact&theme=midnight-purple&hide_border=true&title_color=ff4d4d)
 
 </div>
 
