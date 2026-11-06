@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+<title id="title">Round fox cub</title>
+<desc id="desc">An animated fox cub that blinks, tilts its head, twitches its ears and wags its tail.</desc>
+<style>
+    .fox-tail, .fox-body, .fox-head, .fox-eyes, .fox-ear-left, .fox-ear-right {
+      transform-box: view-box;
+    }
+    .fox-tail {
+      transform-origin: 116px 168px;
+      animation: tail-wag 3.4s ease-in-out infinite;
+    }
+    .fox-body { transform-origin: 100px 180px; animation: breathe 3.6s ease-in-out infinite; }
+    .fox-head { transform-origin: 100px 125px; animation: curious 7s ease-in-out infinite; }
+    .fox-eyes { transform-origin: 100px 87px; animation: blink 6.2s linear infinite; }
+    .fox-ear-left { transform-origin: 70px 80px; animation: ear-left 7.1s ease-in-out infinite; }
+    .fox-ear-right { transform-origin: 132px 80px; animation: ear-right 5.8s ease-in-out infinite; }
+    @keyframes tail-wag {
+      0%, 48%, 100% { transform: rotate(-8deg); }
+      12% { transform: rotate(10deg); }
+      24% { transform: rotate(-12deg); }
+      36% { transform: rotate(8deg); }
+    }
+    @keyframes breathe {
+      0%, 100% { transform: scaleY(1); }
+      50% { transform: scaleY(1.018); }
+    }
+    @keyframes curious {
+      0%, 15%, 65%, 100% { transform: rotate(0deg); }
+      30%, 45% { transform: rotate(-4deg); }
+      80%, 90% { transform: rotate(3deg); }
+    }
+    @keyframes blink {
+      0%, 44%, 48%, 80%, 84%, 100% { transform: scaleY(1); }
+      46%, 82% { transform: scaleY(.08); }
+    }
+    @keyframes ear-left {
+      0%, 38%, 47%, 100% { transform: rotate(0deg); }
+      41% { transform: rotate(-8deg); }
+      44% { transform: rotate(3deg); }
+    }
+    @keyframes ear-right {
+      0%, 68%, 78%, 100% { transform: rotate(0deg); }
+      71% { transform: rotate(7deg); }
+      75% { transform: rotate(-3deg); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .fox-tail, .fox-body, .fox-head, .fox-eyes, .fox-ear-left, .fox-ear-right { animation: none; }
+    }
+  </style>
+<defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0.75" y2="1">
+      <stop stop-color="#ffac52"/>
+      <stop offset="1" stop-color="#e46b29"/>
+    </linearGradient>
+    <linearGradient id="tail" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f58c35"/>
+      <stop offset="1" stop-color="#cc5024"/>
+    </linearGradient>
+  </defs>
+
+<ellipse cx="105" cy="184" rx="65" ry="7" fill="#8594a7" opacity=".14"/>
+<g class="fox-tail">
+  <path d="M117 168c16-19 36-8 48-22 9-10 10-23 5-35 27 10 31 36 17 55-15 21-48 28-70 13Z" fill="url(#tail)"/>
+  <path d="M170 111c17 6 25 19 23 33-9 5-20 5-28 2 9-10 10-23 5-35Z" fill="#fff3db"/>
+</g>
+<g class="fox-body">
+  <ellipse cx="100" cy="151" rx="35" ry="34" fill="url(#fur)"/>
+  <ellipse cx="100" cy="147" rx="22" ry="27" fill="#fff3db"/>
+  <ellipse cx="80" cy="176" rx="14" ry="9" fill="#754437"/>
+  <ellipse cx="120" cy="176" rx="14" ry="9" fill="#754437"/>
+  <path d="M76 176v5m7-5v5m34-5v5m7-5v5" stroke="#ac7561" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g class="fox-head">
+  <g class="fox-ear-left">
+    <path d="M52 83C40 66 34 32 44 19c23 4 39 22 45 44Z" fill="#f08b39"/>
+    <path d="M44 19c-6 8-7 21-5 33l22-25Z" fill="#754437"/>
+    <path d="M50 41c-2 12 1 25 9 33l16-12c-6-10-13-17-25-21Z" fill="#efb7a0"/>
+  </g>
+  <g class="fox-ear-right">
+    <path d="M111 63c6-22 22-40 45-44 10 13 4 47-8 64Z" fill="#f08b39"/>
+    <path d="M156 19c6 8 7 21 5 33l-22-25Z" fill="#754437"/>
+    <path d="M150 41c2 12-1 25-9 33l-16-12c6-10 13-17 25-21Z" fill="#efb7a0"/>
+  </g>
+  <ellipse cx="100" cy="89" rx="59" ry="47" fill="url(#fur)"/>
+  <path d="M42 85c20 0 40 13 58 27 18-14 38-27 58-27-1 27-25 51-58 54-33-3-57-27-58-54Z" fill="#fff3db"/>
+  <path d="m87 44 12 12 5-13 10 11 1-11" fill="#ffd18d"/>
+  <g class="fox-eyes">
+    <ellipse cx="76" cy="87" rx="8" ry="10" fill="#443036"/>
+    <ellipse cx="124" cy="87" rx="8" ry="10" fill="#443036"/>
+    <circle cx="78" cy="84" r="3" fill="#fff"/><circle cx="126" cy="84" r="3" fill="#fff"/>
+    <circle cx="73" cy="91" r="1.5" fill="#c78d6e"/><circle cx="121" cy="91" r="1.5" fill="#c78d6e"/>
+  </g>
+  <path d="M67 72q9-5 17-1m32 0q9-4 17 1" fill="none" stroke="#c66a2d" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="60" cy="103" rx="8" ry="4" fill="#eead9e" opacity=".75"/>
+  <ellipse cx="140" cy="103" rx="8" ry="4" fill="#eead9e" opacity=".75"/>
+  <path d="M94 109q6-3 12 0c2 3-2 7-6 8-4-1-8-5-6-8Z" fill="#443036"/>
+  <path d="M100 117v5m-10 0q5 7 10 0 5 7 10 0" fill="none" stroke="#754437" stroke-width="2" stroke-linecap="round"/>
+</g>
+</svg>
