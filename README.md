@@ -8,7 +8,7 @@
 
 <img align="right" src="assets/fox.svg" width="150" height="150" alt="A round fox cub">
 
-Hi there, I'm **Denis Ustin** 🖖
+Hi there, I'm **Denis** 🖖
 
 🥷 Senior Penetration Tester and Red Team Operator  
 🎯 4+ years in offensive security · 80+ projects delivered  
